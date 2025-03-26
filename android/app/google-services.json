@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1064179039447",
+    "project_id": "dairycare-74dc9",
+    "storage_bucket": "dairycare-74dc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064179039447:android:0030e2d05c0c905fb5c492",
+        "android_client_info": {
+          "package_name": "com.example.dairy_care"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4LyEMqbR-dlgEW31Kz9ylEAsS1ys-qKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
